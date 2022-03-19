@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Affirmations</string>
-    <string name="affirmation1">I am strong.</string>
-    <string name="affirmation2">I believe in myself.</string>
-    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
-    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
-    <string name="affirmation5">I have so much to be grateful for.</string>
-    <string name="affirmation6">Good things are always coming into my life.</string>
-    <string name="affirmation7">New opportunities await me at every turn.</string>
-    <string name="affirmation8">I have the courage to follow my heart.</string>
-    <string name="affirmation9">Things will unfold at precisely the right time.</string>
-    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+    <string name="affirmation1">“If you want to live a happy life, tie it to a goal, not to people or things.”– Albert Einstein</string>
+    <string name="affirmation2">“Never let the fear of striking out keep you from playing the game.”– Babe Ruth</string>
+    <string name="affirmation3">“Turn your wounds into wisdom.” — Oprah Winfrey</string>
+    <string name="affirmation4">“The way I see it, if you want the rainbow, you gotta put up with the rain.” —Dolly Parton</string>
+    <string name="affirmation5">“Don’t settle for what life gives you; make life better and build something.” — Ashton Kutcher</string>
+    <string name="affirmation6">“Life is like riding a bicycle. To keep your balance, you must keep moving.” — Albert Einstein</string>
+    <string name="affirmation7">“Life is a succession of lessons which must be lived to be understood.” — Helen Keller</string>
+    <string name="affirmation8">“When we do the best we can, we never know what miracle is wrought in our life or the life of another.” — Helen Keller</string>
+    <string name="affirmation9">“The healthiest response to life is joy.” — Deepak Chopra</string>
+    <string name="affirmation10">“Life is like a coin. You can spend it any way you wish, but you only spend it once.” — Lillian Dickson</string>
 </resources>
